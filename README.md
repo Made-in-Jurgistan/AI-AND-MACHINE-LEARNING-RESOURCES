@@ -1,6 +1,4 @@
-=====================================
-  AI AND MACHINE LEARNING RESOURCES
-=====================================
+# AI AND MACHINE LEARNING RESOURCES
 
 A comprehensive collection of 350+ curated resources on AI and Machine Learning, featuring research papers, books, and technical guides. 
 From foundational concepts to cutting-edge developments, this repository serves as a knowledge hub for researchers, practitioners, and learners.
